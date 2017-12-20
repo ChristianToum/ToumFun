@@ -3,7 +3,7 @@
 //  Toum Fun
 //
 //  Created by Christian S. Toum on 12/20/17.
-//  Copyright © 2017 Christian S. Toum. All rights reserved.
+//  Copyright © 2017 Christian S. Toum. All rights reserved..
 //
 
 import UIKit
@@ -15,7 +15,7 @@ class ViewController: UIViewController {
     @IBAction func buttonTapped(_ sender: Any) {
         
         buttonCount = buttonCount + 1
-        print(buttonCount)
+        
         
        
         if buttonCount >= 10 {
